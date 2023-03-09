@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\bin\Debug\net6.0\Task002_ArrayPosition.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\bin\Debug\net6.0\Task002_ArrayPosition.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\bin\Debug\net6.0\Task002_ArrayPosition.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\bin\Debug\net6.0\Task002_ArrayPosition.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\bin\Debug\net6.0\Task002_ArrayPosition.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\refint\Task002_ArrayPosition.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\Task002_ArrayPosition.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task002_ArrayPosition\obj\Debug\net6.0\ref\Task002_ArrayPosition.dll

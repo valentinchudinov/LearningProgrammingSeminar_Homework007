@@ -1,0 +1,15 @@
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\bin\Debug\net6.0\Task003_ArithmeticMeanArray.exe
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\bin\Debug\net6.0\Task003_ArithmeticMeanArray.deps.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\bin\Debug\net6.0\Task003_ArithmeticMeanArray.runtimeconfig.json
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\bin\Debug\net6.0\Task003_ArithmeticMeanArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\bin\Debug\net6.0\Task003_ArithmeticMeanArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.csproj.AssemblyReference.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.GeneratedMSBuildEditorConfig.editorconfig
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.AssemblyInfoInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.AssemblyInfo.cs
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.csproj.CoreCompileInputs.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\refint\Task003_ArithmeticMeanArray.dll
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.pdb
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\Task003_ArithmeticMeanArray.genruntimeconfig.cache
+M:\unsorted\_Geek Brains\3. Learning programming programming languages C#\_Seminars\HomeWork007\Tasks\Task003_ArithmeticMeanArray\obj\Debug\net6.0\ref\Task003_ArithmeticMeanArray.dll
